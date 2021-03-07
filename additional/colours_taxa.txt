@@ -1,0 +1,14 @@
+Juniperus;"gold";"#a469a1";3
+Pinus;"darkgreen";"#394d42";3
+Picea;"chartreuse4";"#3ec04c";3
+Abies;"green";"#006aa8";3
+Betula;"skyblue";"#39cee8";3
+Alnus;"purple3";"#534f9b";3
+Corylus;"darkblue";"#084086";3
+Quercus;"orangered";"#ffa418";3
+Tilia;"orange3";"#ff4e00";3
+Fraxinus;"orange4";"#965a2b";3
+Fagus;"red4";"#84322b";3
+Carpinus;"red";"#ff3b00";3
+Poaceae;"bisque3";"#d2ae92";1
+Cyperaceae;"lightslateblue";"#646fac";1

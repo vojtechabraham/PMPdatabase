@@ -1,0 +1,350 @@
+﻿FIN/SPH/Z80	Norway	474	78.90665	11.888565	2	298	nboreal	x	1	SJM	Spitsbergen
+N/CJ/S3	Norway	10	78.542	12.718	1	297	nboreal	x	2	SJM	Spitsbergen
+N/CJ/S2	Norway	10	78.542	12.718	2	296	nboreal		3	SJM	Spitsbergen
+N/CJ/S1	Norway	10	78.542	12.718	1	295	nboreal	x	4	SJM	Spitsbergen
+RUS/EP/L2	Russia	4	73.387222	126.614722	1	294	nboreal	x	5	RUS	Lena Delta
+RUS/EP/L1	Russia	8.6	72.838056	125.820833	1	293	nboreal	x	6	RUS	Lena Delta
+RUS/EP/L3	Russia	10	72.378611	126.518889	1	292	nboreal	x	7	RUS	Lena Delta
+FIN/SPH/B65	Norway	250	70.55853889	29.54788056	10	291	nboreal		8	FIN	Utsjoki
+FIN/SPH/U16	Finland	147	69.93200556	27.18673056	25	290	nboreal		9	FIN	Utsjoki
+FIN/SPH/Ke8	Finland	152	69.74956944	27.0023	28	289	nboreal		10	FIN	Utsjoki
+FIN/SPH/F5	Finland	110	69.67215556	27.07566667	12	288	nboreal		11	FIN	Utsjoki
+FIN/SPH/M24	Finland	402	68.67893056	21.564025	28	280	nboreal		12	FIN	Finnmark
+FIN/SPH/N27	Norway	435	69.23635278	23.79129444	24	286	nboreal		13	NOR	Finnmark
+FIN/SPH/J12	Norway	961	69.08668889	20.84088889	26	284	nboreal		14	NOR	Finnmark
+FIN/SPH/Kil11	Finland	475	69.00983333	20.87637222	25	283	nboreal		15	FIN	Finnmark
+N/CJ/SK2	Norway	100	69.313889	20.422222	3	248	nboreal		16	NOR	Finnmark
+N/CJ/SK1	Norway	100	69.313889	20.422222	3	247	nboreal		17	NOR	Finnmark
+N/CJ/R2	Norway	505	68.865278	19.633333	4	246	nboreal		18	NOR	Skrubben
+N/CJ/R1	Norway	505	68.865278	19.633333	4	245	nboreal		19	NOR	Skrubben
+N/CJ/PE2	Norway	401	68.858333	19.630556	4	244	nboreal		20	NOR	Skrubben
+N/CJ/PE1	Norway	401	68.858333	19.630556	6	243	nboreal		21	NOR	Skrubben
+N/CJ/J4	Norway	640	68.873611	19.627778	4	242	nboreal		22	NOR	Skrubben
+N/CJ/J3	Norway	640	68.873611	19.627778	2	241	nboreal		23	NOR	Skrubben
+N/CJ/PW4	Norway	402	68.858333	19.625	4	240	nboreal		24	NOR	Skrubben
+N/CJ/PW2	Norway	402	68.858333	19.625	4	239	nboreal		25	NOR	Skrubben
+N/CJ/PW1	Norway	402	68.858333	19.625	2	238	nboreal		26	NOR	Skrubben
+N/CJ/J2	Norway	556	68.868056	19.618056	4	237	nboreal		27	NOR	Skrubben
+N/CJ/J1	Norway	556	68.868056	19.618056	4	236	nboreal		28	NOR	Skrubben
+N/KDV/FH-V	Norway	830	68.852778	19.252778	4	233	nboreal		29	NOR	Lappskardet
+N/KDV/DBH-IV	Norway	784	68.855556	19.25	6	232	nboreal		30	NOR	Lappskardet
+N/KDV/CH-III	Norway	775	68.858333	19.233333	6	231	nboreal		31	NOR	Lappskardet
+N/CJ/CHIIIB	Norway	775	68.858333	19.233333	1	230	nboreal	x	32	NOR	Lappskardet
+N/KDV/FH-VI	Norway	930	68.851389	19.233333	5	229	nboreal		33	NOR	Lappskardet
+N/KDV/BH-II	Norway	607	68.861111	19.2	5	228	nboreal		34	NOR	Lappskardet
+N/KDV/AH-I	Norway	457	68.859722	19.158333	6	227	nboreal		35	NOR	Lappskardet
+N/CJ/KHVIIA	Norway	200	68.916697	18.966714	1	226	nboreal	x	36	NOR	Lappskardet
+N/CJ/KHVII	Norway	200	68.916697	18.966714	2	225	nboreal		37	NOR	Lappskardet
+N/CJ/ÄR3	Norway	40	69.258333	16.066667	3	218	nboreal		38	NOR	Lofoten-Vesterålen
+N/CJ/ÄR4	Norway	41	69.259722	16.063889	3	217	nboreal		39	NOR	Lofoten-Vesterålen
+N/CJ/ÄR1	Norway	30	69.256944	16.063889	3	216	nboreal		40	NOR	Lofoten-Vesterålen
+N/CJ/ÄR2	Norway	36	69.258333	16.058333	3	215	nboreal		41	NOR	Lofoten-Vesterålen
+N/CJ/FO2	Norway	17	68.808333	15.686111	3	214	nboreal		42	NOR	Lofoten-Vesterålen
+N/CJ/FO1	Norway	13	68.806944	15.683333	2	213	nboreal		43	NOR	Lofoten-Vesterålen
+N/CJ/TR2	Norway	30	68.981944	15.6	3	212	nboreal		44	NOR	Lofoten-Vesterålen
+N/CJ/TR1	Norway	26	68.981944	15.598611	2	211	nboreal		45	NOR	Lofoten-Vesterålen
+N/CJ/BA2	Norway	43	69.030556	15.541667	2	210	nboreal		46	NOR	Lofoten-Vesterålen
+N/CJ/BA1	Norway	43	69.030556	15.541667	3	209	nboreal		47	NOR	Lofoten-Vesterålen
+N/CJ/HA2	Norway	39	68.569444	14.655556	3	208	nboreal		48	NOR	Lofoten-Vesterålen
+N/CJ/HA1	Norway	56	68.569444	14.65	3	207	nboreal		49	NOR	Lofoten-Vesterålen
+S/LB/STN	Sweden	386	68.3	18.8	3	224	nboreal		50	SWE	Abisko-Tarfala
+S/LB/Bad	Sweden	386	68.3	18.8	3	223	nboreal		51	SWE	Abisko-Tarfala
+S/LB/NJ	Sweden	450	68.4	18.7	3	222	nboreal		52	SWE	Abisko-Tarfala
+S/LB/Tib	Sweden	450	68.3	18.7	3	221	nboreal		53	SWE	Abisko-Tarfala
+FIN/SPH/T72	Sweden	1139	67.911199	18.610738	1	220	nboreal	x	54	SWE	Abisko-Tarfala
+FIN/SPH/T70	Sweden	1139	67.911199	18.610738	1	219	nboreal	x	55	SWE	Abisko-Tarfala
+IS/MH/03	Iceland	335	64.258	-19.302	8	206	nboreal		56	ISL	Iceland
+IS/MH/02	Iceland	320	64.256	-19.302	8	205	nboreal		57	ISL	Iceland
+IS/MH/01	Iceland	200	64.251	-19.305	8	204	nboreal		58	ISL	Iceland
+FIN/SPH/P9	Finland	215	69.27750556	27.19419167	28	287	boreal		59	FIN	Inari
+FIN/SPH/F4	Finland	155	69.12286389	27.23961667	14	285	boreal		60	FIN	Inari
+FIN/SPH/N7	Finland	121	68.863175	28.36648889	28	282	boreal		61	FIN	Inari
+FIN/SPH/S22	Finland	136	68.73164167	27.44585556	28	281	boreal		62	FIN	Inari
+FIN/SPH/F3	Finland	220	68.49946944	27.50343611	14	279	boreal		63	FIN	Inari
+FIN/SPH/KU46	Finland	255	68.40518056	26.50663056	12	278	boreal		64	FIN	Inari
+FIN/SPH/P23	Finland	340	67.99622778	24.0812	27	277	boreal		65	FIN	Lapland
+FIN/SPH/S21	Finland	202	67.71968333	26.73169722	25	276	boreal		66	FIN	Lapland
+FIN/SPH/F2	Finland	180	67.36569722	26.63799444	14	271	boreal		67	FIN	Lapland
+FIN/SPH/A60	Finland	330	67.70110556	24.41778611	6	275	boreal		68	FIN	Lapland
+FIN/SPH/A61	Finland	390	67.69777778	24.41888333	6	274	boreal		69	FIN	Lapland
+FIN/SPH/A62	Finland	482	67.69194444	24.42056111	5	273	boreal		70	FIN	Lapland
+FIN/SPH/A63	Finland	430	67.68860556	24.42276944	5	272	boreal		71	FIN	Lapland
+FIN/SPH/S57	Finland	420	67.98244	24.10769	3		boreal		72	FIN	Lapland
+S/MH/3A	Sweden	245	67.517	22.617	6	257	boreal		74	SWE	Lappland
+S/MH/4A	Sweden	240	67.517	22.583	2	256	boreal		75	SWE	Lappland
+S/MH/4B	Sweden	240	67.517	22.583	6	255	boreal		76	SWE	Lappland
+S/MH/5A	Sweden	275	67.583	22.817	4	254	boreal		77	SWE	Lappland
+S/MH/5B	Sweden	275	67.583	22.817	5	253	boreal		78	SWE	Lappland
+S/MH/6A	Sweden	430	68.267	21.533	5	252	boreal		79	SWE	Lappland
+S/MH/6B	Sweden	430	68.267	21.533	1	251	boreal		80	SWE	Lappland
+S/MH/7A	Sweden	590	68.467	21.083	4	250	boreal		81	SWE	Lappland
+S/MH/7B	Sweden	590	68.467	21.083	1	249	boreal	x	82	SWE	Lappland
+FIN/SPH/A5	Finland	95	66.58058056	25.98000278	18	270	sboreal		83	FIN	South Lapland
+FIN/SPH/O25	Finland	215	66.37718056	29.30969167	27	269	sboreal		84	FIN	South Lapland
+FIN/SPH/O4	Finland	215	66.37718056	29.30969167	17	268	sboreal		85	FIN	South Lapland
+FIN/SPH/O3	Finland	186	66.37718056	29.30969167	15	267	sboreal		86	FIN	South Lapland
+FIN/SPH/R20	Finland	275	66.20723611	28.61695	27	266	sboreal		87	FIN	South Lapland
+FIN/SPH/H28	Finland	11	65.03311944	24.60588611	19	265	sboreal		88	FIN	Hailuoto
+FIN/SPH/K33	Finland	11	65.03175556	24.73120556	18	264	sboreal		89	FIN	Hailuoto
+FIN/SPH/H17	Finland	11	65.031225	24.72794444	23	263	sboreal		90	FIN	Hailuoto
+FIN/SPH/H18	Finland	9	65.01458611	24.72905833	5	262	sboreal		91	FIN	Hailuoto
+FIN/SPH/HKH45	Finland	8	65.00876944	24.72012778	13	261	sboreal		92	FIN	Hailuoto
+FIN/SPH/HKH46	Finland	10	65.0090277777778	24.716144444444446	1		sboreal		93	FIN	Hailuoto
+FIN/SPH/H31	Finland	3	64.99121389	24.74355	18	260	sboreal		94	FIN	Hailuoto
+S/MH/2B	Sweden	100	66.483	22.267	6	258	sboreal		95	SWE	North Bothnia
+S/MH/2A	Sweden	100	66.483	22.267	1	259	sboreal	x	95.5	SWE	North Bothnia
+S/MH/1B	Sweden	495	66.333	19.6	6	235	sboreal		96	SWE	North Bothnia
+S/MH/1A	Sweden	495	66.333	19.6	2	234	sboreal		97	SWE	North Bothnia
+S/TG/AT	Sweden	390	63.885	14.451	3	203	sboreal		98	SWE	Central Sweden
+S/TG/AS	Sweden	390	63.885	14.451	3	202	sboreal		99	SWE	Central Sweden
+S/TG/TT	Sweden	420	62.409	13.6228	3	201	sboreal		100	SWE	Central Sweden
+S/TG/TS	Sweden	420	62.409	13.6228	2	200	sboreal		101	SWE	Central Sweden
+S/TG/STT	Sweden	700	62.3241	13.557	3	199	sboreal		102	SWE	Central Sweden
+S/TG/STS	Sweden	700	62.3241	13.557	3	198	sboreal		103	SWE	Central Sweden
+S/TG/RT	Sweden	400	62.3113	14.0649	1	197	sboreal	x	104	SWE	Central Sweden
+S/TG/RS	Sweden	400	62.3113	14.0649	4	196	sboreal		105	SWE	Central Sweden
+S/TG/KTN2	Sweden	210	61.823	16.407	1	195	sboreal	x	106	SWE	Central Sweden
+S/TG/KT	Sweden	210	61.8212	16.4047	3	194	sboreal		107	SWE	Central Sweden
+S/TG/KS2	Sweden	210	61.8212	16.4047	3	193	sboreal		108	SWE	Central Sweden
+S/TG/KS1	Sweden	210	61.8212	16.4047	4	192	sboreal		109	SWE	Central Sweden
+S/TG/KTN1	Sweden	210	61.8205	16.4054	2	191	sboreal		110	SWE	Central Sweden
+S/TG/SVT	Sweden	260	60.9502	16.5643	3	190	sboreal		111	SWE	Central Sweden
+S/TG/SVS	Sweden	260	60.9502	16.5643	1	189	sboreal	x	112	SWE	Central Sweden
+S/TG/HT	Sweden	230	60.6519	14.9265	4	188	sboreal		113	SWE	Central Sweden
+S/TG/HS2	Sweden	230	60.6519	14.9265	3	187	sboreal		114	SWE	Central Sweden
+S/TG/HS1	Sweden	230	60.6519	14.9265	4	186	sboreal		115	SWE	Central Sweden
+S/TG/HTN	Sweden	230	60.6515	14.9287	2	185	sboreal		116	SWE	Central Sweden
+EST/TK/MIT	Estonia	80	58.2	26.1	3	184	lowertemp		117	EST	Baltic
+EST/TK/MIF	Estonia	80	58.2	26.1	2	183	lowertemp		118	EST	Baltic
+EST/TK/MIO	Estonia	80	58.1	26.1	3	182	lowertemp		119	EST	Baltic
+LV/LK/SE2	Latvia	52	57.724	25.788	6	181	lowertemp		120	LVA	Baltic
+LV/LK/SE1	Latvia	48	57.722	25.783	6	180.9	lowertemp		121	LVA	Baltic
+LV/LK/TEI1	Latvia	104	56.588	26.469	6	180.8	lowertemp		122	LVA	Baltic
+LV/LK/RU1	Latvia	15.7	56.205278	21.086389	6	180.7	lowertemp		123	LVA	Baltic
+RUS/PL8	Russia	89	57.10372222	30.37275	3	180.1	lowertemp		124	RUS	Polistovo-Lovatskaya
+RUS/PL7	Russia	93	57.10430556	30.38522222	2	180	lowertemp		125	RUS	Polistovo-Lovatskaya
+RUS/PL6	Russia	94	57.10530556	30.39255556	3	179.9	lowertemp		126	RUS	Polistovo-Lovatskaya
+RUS/PL5	Russia	88	57.10241667	30.38625	4	179.8	lowertemp		127	RUS	Polistovo-Lovatskaya
+RUS/PL4	Russia	97	57.07127778	30.67780556	3	179.7	lowertemp		128	RUS	Polistovo-Lovatskaya
+RUS/PL3	Russia	93	57.07408333	30.67588889	4	179.6	lowertemp		129	RUS	Polistovo-Lovatskaya
+RUS/PL2	Russia	97	57.07866667	30.67861111	1	179.5	lowertemp	x	130	RUS	Polistovo-Lovatskaya
+RUS/PL1	Russia	89	57.08269444	30.65533333	3	179.4	lowertemp		131	RUS	Polistovo-Lovatskaya
+RUS/TR3	Russia	250	56.74266667	31.53130556	1	179.3	lowertemp	x	132	RUS	Tver
+RUS/TR2	Russia	250	56.74275	31.53128	6	179.2	lowertemp		133	RUS	Tver
+RUS/TR1	Russia	250	56.74269444	31.53172222	7	179.1	lowertemp		134	RUS	Tver
+RUS/CF4	Russia	259	56.47933333	33.02961111	5	179	lowertemp		135	RUS	Tver
+RUS/CF3	Russia	252	56.47227778	33.0425	8	178.9	lowertemp		136	RUS	Tver
+RUS/CF2	Russia	250	56.46902778	33.04925	5	178.8	lowertemp		137	RUS	Tver
+RUS/CF1	Russia	250	56.46761111	33.04925	7	178.7	lowertemp		138	RUS	Tver
+RUS/ZV6	Russia	170	55.69194444	36.72880556	5	178.6	lowertemp		139	RUS	Zvenigorod
+RUS/ZV5	Russia	170	55.69497222	36.73038889	6	178.5	lowertemp		140	RUS	Zvenigorod
+RUS/ZV4	Russia	170	55.69457011	36.72977642	2	178.4	lowertemp		141	RUS	Zvenigorod
+RUS/ZV3	Russia	178	55.66780556	36.71391667	8	178.3	lowertemp		142	RUS	Zvenigorod
+RUS/ZV2	Russia	175	55.66725	36.71308333	6	178.2	lowertemp		143	RUS	Zvenigorod
+RUS/ZV1	Russia	179	55.66669444	36.71425	7	178.1	lowertemp		144	RUS	Zvenigorod
+PL/Gd10	Poland	133	54.44981944	18.49686389	11	178	lowertemp		145	POL	North Poland
+PL/Gd7	Poland	135	54.44960833	18.49626111	12	177.9	lowertemp		146	POL	North Poland
+PL/Gd8	Poland	139	54.44365	18.49491667	13	177.8	lowertemp		147	POL	North Poland
+PL/Gd9	Poland	139	54.443	18.49301667	12	177.7	lowertemp		148	POL	North Poland
+PL/SB4	Poland	203	54.38425833	18.02076944	3	177.6	lowertemp		149	POL	North Poland
+PL/SB5	Poland	227	54.36506111	18.03164444	13	177.5	lowertemp		150	POL	North Poland
+PL/SB6	Poland	233	54.36076944	18.04933056	4	177.4	lowertemp		151	POL	North Poland
+PL/JC2	Poland	203	54.25875	17.71155278	12	177.3	lowertemp		152	POL	North Poland
+PL/JC1	Poland	203	54.25804167	17.71795833	10	177.2	lowertemp		153	POL	North Poland
+PL/JC3	Poland	201	54.25630833	17.72663333	8	177.1	lowertemp		154	POL	North Poland
+PL/AFC/L3	Poland	150	53.93387	17.524052	6	177	lowertemp		155	POL	North-Central Poland
+PL/AFC/W3	Poland	123	53.933	17.55	5	176	lowertemp		156	POL	North-Central Poland
+PL/AFC/W2	Poland	123	53.933	17.55	4	175	lowertemp		157	POL	North-Central Poland
+PL/AFC/W1	Poland	123	53.933	17.55	5	174	lowertemp		158	POL	North-Central Poland
+PL/AFC/L2	Poland	150	53.933	17.512	6	173	lowertemp		159	POL	North-Central Poland
+PL/AFC/L1	Poland	150	53.933	17.512	4	172	lowertemp		160	POL	North-Central Poland
+PL/AFC/LP3	Poland	75	53.091663	18.563504	5	171	lowertemp		161	POL	North-Central Poland
+PL/AFC/LP1	Poland	73	53.079856	18.551435	7	170	lowertemp		162	POL	North-Central Poland
+PL/AFC/LP2	Poland	76	53.083119	18.548054	4	169	lowertemp		163	POL	North-Central Poland
+PL/AN/W1	Poland	106	53.517867	18.107399	7	168	lowertemp		164	POL	North-Central Poland
+PL/AN/W3	Poland	101	53.517378	18.124184	6	167	lowertemp		165	POL	North-Central Poland
+PL/AN/W2	Poland	101	53.517143	18.12307	7	166	lowertemp		166	POL	North-Central Poland
+PL/BN/B1	Poland	110	53.356884	19.454584	7	165	lowertemp		167	POL	North-Central Poland
+PL/BN/B2	Poland	80	53.339974	19.431357	7	164	lowertemp		168	POL	North-Central Poland
+PL/BN/B3	Poland	116	53.327885	19.47898	6	163	lowertemp		169	POL	North-Central Poland
+RUS/TU3	Russia	320	54.06130556	37.59355556	5	162.7	lowertemp		170	RUS	Tula
+RUS/TU2	Russia	320	54.06222222	37.59177778	5	162.6	lowertemp		171	RUS	Tula
+RUS/TU1	Russia	177	54.07680556	37.71202778	1	162.5	lowertemp	x	172	RUS	Tula
+RUS/KP4	Russia	210	53.62886111	38.61941667	5	162.4	lowertemp		173	RUS	Tula
+RUS/KP3	Russia	209	53.65058333	38.64658333	7	162.3	lowertemp		174	RUS	Tula
+RUS/KP2	Russia	149	53.66825	38.58797222	5	162.2	lowertemp		175	RUS	Tula
+RUS/KP1	Russia	154	53.67677778	38.63302778	2	162.1	lowertemp		176	RUS	Tula
+UK/HP/CC10	Great Britain	152	53.1	-3.885555556	3	162	lowertemp		177	GBR	Capel Curig Wales
+UK/HP/CC9	Great Britain	152	53.1	-3.885555556	3	161	lowertemp		178	GBR	Capel Curig Wales
+UK/HP/CC8	Great Britain	145	53.1	-3.884444444	3	160	lowertemp		179	GBR	Capel Curig Wales
+UK/HP/CC7	Great Britain	145	53.1	-3.884444444	3	159	lowertemp		180	GBR	Capel Curig Wales
+UK/HP/CC6	Great Britain	280	53.085	-3.9	2	158	lowertemp		181	GBR	Capel Curig Wales
+UK/HP/CC5	Great Britain	280	53.085	-3.9	2	157	lowertemp		182	GBR	Capel Curig Wales
+UK/HP/CC4	Great Britain	450	53.08416667	-3.901388889	3	156	lowertemp		183	GBR	Capel Curig Wales
+UK/HP/CC3	Great Britain	450	53.08416667	-3.901388889	3	155	lowertemp		184	GBR	Capel Curig Wales
+UK/HP/CC2	Great Britain	500	53.08388889	-3.916666667	2	154	lowertemp		185	GBR	Capel Curig Wales
+UK/HP/CC1	Great Britain	500	53.08388889	-3.916666667	3	153	lowertemp		186	GBR	Capel Curig Wales
+UK/HT/HW5	England	200	51.25	-2.383	3	152	lowertemp		187	GBR	Exmoor England
+UK/HT/HW4	England	200	51.25	-2.383	3	151	lowertemp		188	GBR	Exmoor England
+UK/HT/HW3	England	200	51.25	-2.383	3	150	lowertemp		189	GBR	Exmoor England
+UK/HT/HW2	England	200	51.25	-2.383	3	149	lowertemp		190	GBR	Exmoor England
+UK/HT/HW1	England	200	51.25	-2.383	3	148	lowertemp		191	GBR	Exmoor England
+PL/IP/G9	Poland	317	50.57226944	23.06851667	5	128	lowertemp		192	POL	Roztocze
+PL/IP/G8	Poland	317	50.57255556	23.05391389	5	127	lowertemp		193	POL	Roztocze
+PL/IP/G7	Poland	241	50.582825	23.0745	5	126	lowertemp		194	POL	Roztocze
+PL/IP/G6	Poland	238	50.58199722	23.067575	6	125	lowertemp		195	POL	Roztocze
+PL/IP/G5	Poland	246	50.58686111	23.06268889	6	124	lowertemp		196	POL	Roztocze
+PL/IP/G4	Poland	246	50.58466667	23.05809444	7	123	lowertemp		197	POL	Roztocze
+PL/IP/G3	Poland	246	50.58739722	23.06547222	7	122	lowertemp		198	POL	Roztocze
+PL/IP/G2	Poland	246	50.59025278	23.05914444	6	121	lowertemp		199	POL	Roztocze
+PL/IP/G1	Poland	246	50.59061111	23.06397778	5	120	lowertemp		200	POL	Roztocze
+CZE/HSS/KR16	Czech Republic	759.17	50.6755222	15.6316333	10	144	middletemp		209	CZE	Krkonoše lower
+CZE/HSS/KR17	Czech Republic	980.45	50.6774333	15.7661194	11	145	middletemp		210	CZE	Krkonoše lower
+CZE/HSS/KR19	Czech Republic	990.21	50.6601528	15.8532528	12	147	middletemp		211	CZE	Krkonoše lower
+CZE/HSS/KR12	Czech Republic	1034.12	50.7636972	15.5527	11	140	middletemp		212	CZE	Krkonoše lower
+CZE/HSS/KR15	Czech Republic	1085.05	50.6949361	15.7091278	6	143	middletemp		213	CZE	Krkonoše lower
+CZE/HSS/KR14	Czech Republic	1142.33	50.710325	15.6991472	9	142	middletemp		214	CZE	Krkonoše lower
+CZE/HSS/KR18	Czech Republic	1191.09	50.6605722	15.7510944	13	146	middletemp		215	CZE	Krkonoše lower
+CZE/HSS/KR7	Czech Republic	1248.68	50.7887917	15.5027417	7	135	middletemp		216	CZE	Krkonoše lower
+CZE/HSS/KR9	Czech Republic	1301.59	50.7626972	15.5303139	10	137	middletemp		217	CZE	Krkonoše higher
+CZE/HSS/KR13	Czech Republic	1344.23	50.7048611	15.6771444	12	141	middletemp		218	CZE	Krkonoše higher
+CZE/HSS/KR6	Czech Republic	1361.34	50.7708333	15.5400222	10	134	middletemp		219	CZE	Krkonoše higher
+CZE/HSS/KR11	Czech Republic	1371.26	50.7230667	15.6969417	11	139	middletemp		220	CZE	Krkonoše higher
+CZE/HSS/KR10	Czech Republic	1381.47	50.7324	15.7150694	11	138	middletemp		221	CZE	Krkonoše higher
+CZE/HSS/KR8	Czech Republic	1385.74	50.7372417	15.6928139	9	136	middletemp		222	CZE	Krkonoše higher
+CZE/HSS/KR4	Czech Republic	1413.94	50.7554083	15.5400528	12	132	middletemp		223	CZE	Krkonoše higher
+CZE/HSS/KR5	Czech Republic	1431.48	50.7355028	15.7084611	9	133	middletemp		224	CZE	Krkonoše higher
+CZE/HSS/KR3	Czech Republic	1457.58	50.7311667	15.7047889	12	131	middletemp		225	CZE	Krkonoše higher
+CZE/HSS/KR2	Czech Republic	1496.18	50.7766333	15.5682889	12	130	middletemp		226	CZE	Krkonoše higher
+CZE/HSS/KR1	Czech Republic	1554.25	50.7274028	15.7068806	8	129	middletemp		227	CZE	Krkonoše higher
+CZE/HSS/SA16	Czech Republic	735	48.8733528	13.8668306	11	117	middletemp		228	CZE	Šumava lower
+CZE/HSS/SA10	Czech Republic	803.3	48.8740194	13.8523944	14	111	middletemp		229	CZE	Šumava lower
+CZE/HSS/SA17	Czech Republic	812	48.9000444	13.7372222	10	118	middletemp		230	CZE	Šumava lower
+CZE/HSS/SA14	Czech Republic	865.5	49.1552	13.3286444	13	115	middletemp		231	CZE	Šumava lower
+CZE/HSS/SA18	Czech Republic	973.3	48.9623861	13.62915	11	119	middletemp		232	CZE	Šumava lower
+CZE/HSS/SA15	Czech Republic	1060	49.039775	13.5732167	11	116	middletemp		233	CZE	Šumava lower
+CZE/HSS/SA12	Czech Republic	1070	49.022275	13.4585278	9	113	middletemp		234	CZE	Šumava lower
+CZE/HSS/SA11	Czech Republic	1089.1	49.0181889	13.4188667	9	112	middletemp		235	CZE	Šumava lower
+CZE/HSS/SA9	Czech Republic	1099.4	49.1240806	13.315475	9	110	middletemp		236	CZE	Šumava lower
+CZE/HSS/SA8	Czech Republic	1200	48.9714833	13.5974056	2	109	middletemp		237	CZE	Šumava higher
+CZE/HSS/SA3	Czech Republic	1202	49.1720472	13.2103083	13	104	middletemp		238	CZE	Šumava higher
+CZE/HSS/SA5	Czech Republic	1223.8	48.9939194	13.4285278	11	106	middletemp		239	CZE	Šumava higher
+CZE/HSS/SA13	Czech Republic	1250	48.9492222	13.4877972	10	114	middletemp		240	CZE	Šumava higher
+CZE/HSS/SA2	Czech Republic	1311	48.781075	13.8040944	13	103	middletemp		241	CZE	Šumava higher
+CZE/HSS/SA7	Czech Republic	1336.6	49.1065444	13.3119806	12	108	middletemp		242	CZE	Šumava higher
+CZE/HSS/SA4	Czech Republic	1343	49.1740222	13.1821917	7	105	middletemp		243	CZE	Šumava higher
+CZE/HSS/SA6	Czech Republic	1367.4	48.9697389	13.4439222	12	107	middletemp		244	CZE	Šumava higher
+CZE/HSS/SA1	Czech Republic	1378	48.7711139	13.8576	7	102	middletemp		245	CZE	Šumava higher
+HUN/EM/SOM-1	Hungary	540	47.891	19.997	1	101	lowertemp	x	201	HUN	
+HUN/EM/KM-2	Hungary	730	47.883	20	1	100	lowertemp	x	202	HUN	
+HUN/EM/ET-4	Hungary	500	47.847	19.95	1	99	lowertemp	x	203	HUN	
+HUN/EM/HAL-9	Hungary	121	47.512	21.847	1	98	lowertemp	x	204	HUN	
+HUN/EM/CSIK-11	Hungary	121	47.433	21.78	1	97	lowertemp	x	205	HUN	
+HUN/EM/ORR-12	Hungary	300	46.894	16.275	1	96	lowertemp	x	206	HUN	
+HUN/EM/APV-14	Hungary	290	46.894	16.261	1	95	lowertemp	x	207	HUN	
+HUN/EM/CSOR-15	Hungary	350	46.889	16.261	1	94	lowertemp	x	208	HUN	
+CH/WVDK/Z5	Switzerland	3000	45.982195	7.780903	21	93	hightemp		246	CHE	Zermatt
+CH/WVDK/Z4	Switzerland	2915	45.987326	7.77958	21	92	hightemp		247	CHE	Zermatt
+CH/WVDK/Z3	Switzerland	2520	46.001309	7.781345	21	91	hightemp		248	CHE	Zermatt
+CH/WVDK/Z2	Switzerland	2320	46.004892	7.786208	21	90	hightemp		249	CHE	Zermatt
+CH/WVDK/Z1	Switzerland	2240	46.005375	7.775239	21	89	hightemp		250	CHE	Zermatt
+CH/WVDK/S5	Switzerland	2030	46.252426	8.02179	12	87	hightemp		251	CHE	Simplon
+CH/WVDK/S4	Switzerland	2185	46.230814	8.026161	20	86	hightemp		252	CHE	Simplon
+CH/WVDK/S3	Switzerland	2130	46.230739	8.023243	22	85	hightemp		253	CHE	Simplon
+CH/WVDK/S2	Switzerland	2055	46.232192	8.020537	22	84	hightemp		254	CHE	Simplon
+CH/WVDK/S1c	Switzerland	1885	46.233571	8.014848	16	83	hightemp		255	CHE	Simplon
+CH/WVDK/S1b	Switzerland	1855	46.234246	8.01466	5	82	hightemp		256	CHE	Simplon
+CH/WVDK/S1a	Switzerland	1845	46.234656	8.013679	2	81	hightemp		257	CHE	Simplon
+CH/WVDK/R6	Switzerland	2215	46.371203	8.015658	18	80	hightemp		258	CHE	Riederhorn-Flesch
+CH/WVDK/R5	Switzerland	2150	46.372997	8.016586	18	77	hightemp		259	CHE	Riederhorn-Flesch
+CH/WVDK/R4	Switzerland	2000	46.370405	8.01344	3	76	hightemp		260	CHE	Riederhorn-Flesch
+CH/WVDK/R3	Switzerland	2030	46.373824	8.013216	3	75	hightemp		261	CHE	Riederhorn-Flesch
+CH/WVDK/R2	Switzerland	2130	46.374037	8.015493	22	74	hightemp		262	CHE	Riederhorn-Flesch
+CH/WVDK/F2	Switzerland	1840	46.379129	8.048237	14	49	hightemp		263	CHE	Riederhorn-Flesch
+CH/WVDK/F1	Switzerland	1840	46.379129	8.048237	1	48	hightemp	x	264	CHE	Riederhorn-Flesch
+CH/WVDK/SAG	Switzerland	1945	46.681061	7.979756	1	88	hightemp	x	265	CHE	Grindelwald
+CH/WVDK/R5-b	Switzerland	2150	46.372997	8.016586	1	79	hightemp	x	266	CHE	Riederhorn-Flesch
+CH/WVDK/R5-a	Switzerland	2150	46.372997	8.016586	1	78	hightemp	x	267	CHE	Riederhorn-Flesch
+CH/WVDK/M5	Switzerland	1315	46.546338	6.229588	12	73	hightemp		268	CHE	Jura
+CH/WVDK/M4	Switzerland	1325	46.537112	6.224971	8	72	hightemp		269	CHE	Jura
+CH/WVDK/M3	Switzerland	1375	46.539891	6.23247	12	71	hightemp		270	CHE	Jura
+CH/WVDK/M2	Switzerland	1375	46.540161	6.232464	12	70	hightemp		271	CHE	Jura
+CH/WVDK/M1	Switzerland	1410	46.539911	6.235076	12	69	hightemp		272	CHE	Jura
+CH/WVDK/HIN	Switzerland	1525	46.717053	8.065787	2	68	hightemp		273	CHE	Grindelwald
+CH/WVDK/HAG	Switzerland	2339	46.673587	8.035224	18	67	hightemp		274	CHE	Grindelwald
+CH/WVDK/G15	Switzerland	1725	46.649532	7.99799	11	66	hightemp		275	CHE	Grindelwald
+CH/WVDK/G14	Switzerland	1955	46.653248	8.010504	17	65	hightemp		276	CHE	Grindelwald
+CH/WVDK/G13b	Switzerland	2390	46.661206	8.020061	2	64	hightemp		277	CHE	Grindelwald
+CH/WVDK/G13	Switzerland	2390	46.661206	8.020061	17	63	hightemp		278	CHE	Grindelwald
+CH/WVDK/G12B	Switzerland	2270	46.663889	8.025556	1	62	hightemp	x	279	CHE	Grindelwald
+CH/WVDK/G12A	Switzerland	2270	46.663889	8.025556	1	61	hightemp	x	280	CHE	Grindelwald
+CH/WVDK/G12	Switzerland	2270	46.658173	8.015129	17	60	hightemp		281	CHE	Grindelwald
+CH/WVDK/G10	Switzerland	2120	46.655579	8.012162	18	59	hightemp		282	CHE	Grindelwald
+CH/WVDK/G08-b	Switzerland	2020	46.654372	8.010647	1	58	hightemp	x	283	CHE	Grindelwald
+CH/WVDK/G08-a	Switzerland	2020	46.654372	8.010647	1	57	hightemp	x	284	CHE	Grindelwald
+CH/WVDK/G08	Switzerland	2020	46.654372	8.010647	18	56	hightemp		285	CHE	Grindelwald
+CH/WVDK/G07-b	Switzerland	2020	46.655506	8.008699	1	55	hightemp	x	286	CHE	Grindelwald
+CH/WVDK/G07-a	Switzerland	2020	46.655506	8.008699	1	54	hightemp	x	287	CHE	Grindelwald
+CH/WVDK/G07	Switzerland	2020	46.655506	8.008699	3	53	hightemp		288	CHE	Grindelwald
+CH/WVDK/G06b	Switzerland	1930	46.651606	8.006241	13	52	hightemp		289	CHE	Grindelwald
+CH/WVDK/G06	Switzerland	1930	46.651606	8.006241	17	51	hightemp		290	CHE	Grindelwald
+CH/WVDK/G01	Switzerland	1700	46.647192	7.998357	1	50	hightemp	x	291	CHE	Grindelwald
+CH/WVDK/A5	Switzerland	2020	46.390698	8.029516	17	47	hightemp		292	CHE	Aletschwald
+CH/WVDK/A4	Switzerland	2215	46.387766	8.031109	22	46	hightemp		293	CHE	Aletschwald
+CH/WVDK/A3	Switzerland	2165	46.388714	8.030404	22	45	hightemp		294	CHE	Aletschwald
+CH/WVDK/A2	Switzerland	2010	46.390265	8.027104	22	44	hightemp		295	CHE	Aletschwald
+CH/WVDK/A1	Switzerland	2000	46.390719	8.026264	22	43	hightemp		296	CHE	Aletschwald
+CH/WVDK/A0	Switzerland	2017	46.388614	8.024551	3	42	hightemp		297	CHE	Aletschwald
+BUL/MF/16	Bulgaria	9	43.017	27.883	4	41	lowersouth		298	BGR	Black Sea coast
+BUL/MF/12	Bulgaria	172	43.133611	26.820556	1	40	lowersouth	x	299	BGR	Black Sea coast
+BUL/MF/11	Bulgaria	281	43.153889	26.758889	2	39	lowersouth		300	BGR	Black Sea coast
+BUL/MF/05	Bulgaria	23	42.317	27.717	4	34	lowersouth		301	BGR	Black Sea coast
+BUL/MF/04	Bulgaria	14	43.567	28.567	3	33	lowersouth		302	BGR	Black Sea coast
+BUL/MF/03	Bulgaria	8	43.65999985	28.53000069	3	32	lowersouth		303	BGR	Black Sea coast
+BUL/MF/02	Bulgaria	117	43.383	28.467	4	31	lowersouth		304	BGR	Black Sea coast
+BUL/MF/01	Bulgaria	233	43.383	28.45	5	30	lowersouth		305	BGR	Black Sea coast
+BUL/MF/10	Bulgaria	140	42.06	27.82	3	38	lowersouth		306	BGR	Strandzha
+BUL/MF/09	Bulgaria	240	42.076667	27.766667	3	37	lowersouth		307	BGR	Strandzha
+BUL/MF/08	Bulgaria	149	42.069722	27.852222	5	36	lowersouth		308	BGR	Strandzha
+BUL/MF/07	Bulgaria	140	42.08000183	27.85000038	5	35	lowersouth		309	BGR	Strandzha
+TR/NKK/SF3	Turkey	32	41.13436111	27.13430556	6	29.12	lowersouth		310	TR	İğneada/Kırklareli
+TR/NKK/SF2	Turkey	42	41.13497222	27.13527778	3	29.11	lowersouth		311	TR	İğneada/Kırklareli
+TR/NKK/SF1	Turkey	22	41.13447222	27.13436111	8	29.1	lowersouth		312	TR	İğneada/Kırklareli
+TR/NKK/MF3	Turkey	4	41.00244444	27.13594444	7	29.09	lowersouth		313	TR	İğneada/Kırklareli
+TR/NKK/MF2	Turkey	5	41.00230556	27.1355	9	29.08	lowersouth		314	TR	İğneada/Kırklareli
+TR/NKK/MF1	Turkey	11	41.01930556	27.10130556	6	29.07	lowersouth		315	TR	İğneada/Kırklareli
+TR/NKK/BF6	Turkey	63	41.00152778	29.00047222	2	29.06	lowersouth		316	TR	Belgrad Forest/Istanbul
+TR/NKK/BF5	Turkey	64	41.00166667	29.00086111	2	29.05	lowersouth		317	TR	Belgrad Forest/Istanbul
+TR/NKK/BF4	Turkey	73	41.00247222	29.00119444	2	29.04	lowersouth		318	TR	Belgrad Forest/Istanbul
+TR/NKK/BF3	Turkey	105	41.0175	28.13547222	2	29.03	lowersouth		319	TR	Belgrad Forest/Istanbul
+TR/NKK/BF2	Turkey	109	41.01805556	28.13505556	2	29.02	lowersouth		320	TR	Belgrad Forest/Istanbul
+TR/NKK/BF1	Turkey	114	41.01863889	28.13483333	2	29.01	lowersouth		321	TR	Belgrad Forest/Istanbul
+BUL/EB/BRL4	Bulgaria	1950	42.166	23.414	6	29	highsouth		322	BGR	Rila
+BUL/EB/BRL3	Bulgaria	1950	42.166	23.414	11	28	highsouth		323	BGR	Rila
+BUL/EB/BRL2	Bulgaria	1950	42.166	23.414	1	27	highsouth	x	324	BGR	Rila
+GEOR/EK/T10	Georgia	2900	41.983333	46.3875	1	26	highsouth	x	325	GEO	Lagodekhi
+GEOR/EK/T9	Georgia	2600	41.877778	46.383333	5	25	highsouth		326	GEO	Lagodekhi
+GEOR/EK/T8	Georgia	2284	41.875	46.374167	6	24	highsouth		327	GEO	Lagodekhi
+GEOR/EK/T7	Georgia	1997	41.870278	46.353889	7	23	highsouth		328	GEO	Lagodekhi
+GEOR/EK/T6	Georgia	1966	41.865	46.348889	7	22	highsouth		329	GEO	Lagodekhi
+GEOR/EK/T5	Georgia	1661	41.854444	46.340833	2	21	highsouth		330	GEO	Lagodekhi
+GEOR/EK/T4	Georgia	1241	41.849444	46.323056	7	20	highsouth		331	GEO	Lagodekhi
+GEOR/EK/T3	Georgia	893	41.855556	46.315833	3	19	highsouth		332	GEO	Lagodekhi
+GEOR/EK/T2	Georgia	683	41.853056	46.291389	6	18	highsouth		333	GEO	Lagodekhi
+GEOR/EK/T1	Georgia	578	41.847778	46.278889	8	17	highsouth		334	GEO	Lagodekhi
+GRE/AMG/P7	Greece	560	40.392	22.208	3	16	highsouth		335	GRC	Pieria
+GRE/AMG/P6	Greece	1260	40.305	22.166	15	15	highsouth		336	GRC	Pieria
+GRE/AMG/P5	Greece	1450	40.285	22.153	14	14	highsouth		337	GRC	Pieria
+GRE/AMG/P4	Greece	1500	40.275	22.164	11	13	highsouth		338	GRC	Pieria
+GRE/AMG/P3	Greece	1645	40.258	22.168	13	12	highsouth		339	GRC	Pieria
+GRE/AMG/P2	Greece	1870	40.239	22.167	15	11	highsouth		340	GRC	Pieria
+GRE/AMG/P1	Greece	1990	40.237	22.168	13	10	highsouth		341	GRC	Pieria
+GRE/TIM4	Greece	1015	38.901	21.867	2	9	highsouth		342	GRC	Timfristos
+GRE/TIM3	Greece	1514	38.925	21.809	4	8	highsouth		343	GRC	Timfristos
+GRE/TIM2	Greece	1765	38.933	21.81	5	7	highsouth		344	GRC	Timfristos
+GRE/TIM5	Greece	740	38.933	21.716	2	6	highsouth		345	GRC	Timfristos
+GRE/TIM1	Greece	1875	38.946	21.805	4	5	highsouth		346	GRC	Timfristos
+CYP/TRO4	Cyprus	1065	34.894	32.912	7	4	highsouth		347	CYP	Cyprus
+CYP/TRO3	Cyprus	980	34.971	32.9	5	3	highsouth		348	CYP	Cyprus
+CYP/TRO2	Cyprus	1630	34.935	32.898	9	2	highsouth		349	CYP	Cyprus
+CYP/TRO1	Cyprus	1605	34.929	32.899	7	1	highsouth		350	CYP	Cyprus

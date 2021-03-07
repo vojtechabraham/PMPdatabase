@@ -1,0 +1,7 @@
+"#e41a1c",cervena
+"#ff7f00",oranzova
+"#ffff33",zluta
+"#984ea3",fialova
+"#4daf4a",zelena
+"#377eb8",modra
+"#a65628",hneda
