@@ -116,7 +116,7 @@ rnn[rnn$Group.1=="Fraxinus" & rnn$Group.2==5,5] <-3000
 rnn[rnn$Group.1=="total_concetration" & rnn$Group.2==5,5] <- 70000
 
 require(xlsx)
-v <- read.xlsx("statistic/TLDT.xlsx", sheetIndex = 1)
+v <- read.xlsx("statistic/TLDT2.xlsx", sheetIndex = 1)
 
 druhy <- sort(unique(dt$taxa))
 druhl <- druhy
@@ -132,7 +132,7 @@ ob2 <- c("arc/al", "n.bor", "bor", "l.temp","m.temp", "alp", "t/Med")
 barn <- c("white", barf, rev(barf)) 
 library("MALDIquant")
 #png(paste("hist_plot_LDT_new7.png", sep=""), height = 1450, width = 1000, units="mm", res=300, pointsize=45)#, compression="lzw")
-cairo_pdf("Fig5pdf", height = 29, width = 20, pointsize=28)
+cairo_pdf("Fig5b.pdf", height = 29, width = 20, pointsize=28)
 
 nf <- layout(matrix(c(1, 2:7,
                       1, 8:13,

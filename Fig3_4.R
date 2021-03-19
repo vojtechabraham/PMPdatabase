@@ -134,7 +134,7 @@ par.ad$total_concetration<-rowSums(par.ad[,1:14])
 
 ####
 for(i in 1:NROW(dr)){
-        t  <- dst[dst$x>0 & as.character(dst$taxa) == dr[i],]
+        t  <- dst[ as.character(dst$taxa) == dr[i],]
         y  <- (log(t$PAR))
         x  <- (t$x)
         rg <- lm(y~x)
@@ -142,7 +142,7 @@ for(i in 1:NROW(dr)){
         vv <- data.frame(taxon=dr[i], obs=nrow(t), vs)
         if(i==1){ v<-vv} else {v<-rbind(v,vv) }
 }
-write.xlsx(v,"statistic/TLDT.xlsx")
+write.xlsx(v,"statistic/TLDT2.xlsx")
 v <- read.xlsx("statistic/TLDT.xlsx", sheetIndex = 1)
 require(gplots) 
 
@@ -185,7 +185,8 @@ cairo_pdf( "Fig3.pdf", height = 18, width = 20, pointsize = 33)
         mtext("(b)", outer=T,side=3, cex=2, font=2, line=-1, las=0, adj=0.5)
         dev.off()
         
-  cairo_pdf( "Fig4b.pdf", height = 16, width = 32, pointsize = 48)
+        dr_rg <- list()
+  cairo_pdf( "Fig4b_with_zero.pdf", height = 16, width = 32, pointsize = 48)
         
        # tiff("Fig4.tiff",  height=800, width=1600, pointsize = 32)
         #pdf("long_dist_PAR_novy.pdf")
@@ -195,7 +196,7 @@ cairo_pdf( "Fig3.pdf", height = 18, width = 20, pointsize = 33)
             
               tt <- dst[ as.character(dst$taxa) == dr[i],]
               plot(log(tt$PAR)~(tt$x), pch=16, main=dr[i], xlab="", ylab="" , yaxt="n", bty="n",  font.main=3,  cex.main=1.5,  col="transparent", xlim=c(-1*(max(tt$x)/20),max(tt$x)))#, ylim=c(-0.001, ))
-              t <- dst[dst$x>0 & as.character(dst$taxa) == dr[i],]
+              t <- dst[ as.character(dst$taxa) == dr[i],]
               
                              # text(thigmophobe(x=(t[t$PAR>100,"x"]),y=(t[t$PAR>100,"PAR"])), labels=(t[t$PAR>100,"sites"]), cex=.7, xpd=T)
 #                text((t[t$PAR>100,"x"]),log(t[t$PAR>100,"PAR"]), labels=(t[t$PAR>100,"sites"]), cex=.7, xpd=T)
@@ -204,17 +205,18 @@ cairo_pdf( "Fig3.pdf", height = 18, width = 20, pointsize = 33)
               y<-(log(t$PAR))
               x <- (t$x)
               rg <- lm(y~x)
+              dr_rg[[i]] <- summary(rg)
             #-  title(main=paste("R2=",round(summary(rg)$r.squared,2), sep="" ), line=0.5, cex.main=0.7, font.main=1)
               abline(rg)
               
-              rect(xleft = -1*(max(tt$x)/10),ybottom = 0,xright = 0,ytop = max(log(tt$PAR)), border = "transparent", col="white")
+            #  rect(xleft = -1*(max(tt$x)/10),ybottom = 0,xright = 0,ytop = max(log(tt$PAR)), border = "transparent", col="white")
               axis(2, at=log(c(0.000001,1,3,10,30,100,300,1000,3000,10000,30000)), labels=c(c("",1,3,10,30,100,300,1000,3000,10000,30000)), las=2)
                     points(log(t$PAR)~(t$x), pch=16)
               
               nu <- dst[dst$x==0 & as.character(dst$taxa) == dr[i],]
               boxplot(log(nu$PAR),boxwex=max(tt$x)/10, xpd=T, at=-1*(max(tt$x)/20), add=T, bty="n", axes=F, range=4, col="gray", lty=1, lend=2)
-             v[v$taxon==dr[i], 7] <- mean(nu$PAR)
-             v[v$taxon==dr[i], 8] <- median(nu$PAR)
+             #v[v$taxon==dr[i], 7] <- mean(nu$PAR)
+             #v[v$taxon==dr[i], 8] <- median(nu$PAR)
              
               if(i==1){
             mtext(side = 3, "(a)", cex=2, line=-0.3, font=2, adj=-1.2,  xpd=T)
